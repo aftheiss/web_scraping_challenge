@@ -61,4 +61,3 @@ def scrape_mars():
 
     # Quit the browser after scraping
     browser.quit()
-
